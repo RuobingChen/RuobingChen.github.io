@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://RuobingChen.github.io</id>
     <title>肉饼不加冰</title>
-    <updated>2020-05-11T18:36:06.168Z</updated>
+    <updated>2020-05-12T14:33:22.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://RuobingChen.github.io"/>
     <link rel="self" href="https://RuobingChen.github.io/atom.xml"/>
@@ -11,13 +11,6 @@
     <icon>https://RuobingChen.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 肉饼不加冰</rights>
     <entry>
-        <title type="html"><![CDATA[Life丨圣诞是金色的闪光]]></title>
-        <id>https://RuobingChen.github.io/post/life-gun-sheng-dan-shi-jin-se-de-shan-guang/</id>
-        <link href="https://RuobingChen.github.io/post/life-gun-sheng-dan-shi-jin-se-de-shan-guang/">
-        </link>
-        <updated>2020-05-11T18:31:46.000Z</updated>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[关于本站]]></title>
         <id>https://RuobingChen.github.io/post/about/</id>
         <link href="https://RuobingChen.github.io/post/about/">
@@ -25,10 +18,59 @@
         <updated>2020-05-11T18:09:39.000Z</updated>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Imagine丨恐惧]]></title>
+        <id>https://RuobingChen.github.io/post/imagine-gun-kong-ju/</id>
+        <link href="https://RuobingChen.github.io/post/imagine-gun-kong-ju/">
+        </link>
+        <updated>2018-08-20T11:57:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family丨乐清白喜事风俗考]]></title>
+        <id>https://RuobingChen.github.io/post/family-gun-le-qing-bai-xi-shi-feng-su-kao/</id>
+        <link href="https://RuobingChen.github.io/post/family-gun-le-qing-bai-xi-shi-feng-su-kao/">
+        </link>
+        <updated>2018-08-19T13:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family丨因外公病重回家]]></title>
+        <id>https://RuobingChen.github.io/post/family-gun-yin-wai-gong-bing-chong-hui-jia/</id>
+        <link href="https://RuobingChen.github.io/post/family-gun-yin-wai-gong-bing-chong-hui-jia/">
+        </link>
+        <updated>2018-08-16T13:59:07.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thinking丨选择]]></title>
+        <id>https://RuobingChen.github.io/post/thinking-gun-xuan-ze/</id>
+        <link href="https://RuobingChen.github.io/post/thinking-gun-xuan-ze/">
+        </link>
+        <updated>2018-02-22T23:44:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family丨记母亲手术]]></title>
+        <id>https://RuobingChen.github.io/post/family-gun-ji-mu-qin-shou-zhu/</id>
+        <link href="https://RuobingChen.github.io/post/family-gun-ji-mu-qin-shou-zhu/">
+        </link>
+        <updated>2018-01-01T10:23:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Family丨永远的温州的夕阳]]></title>
+        <id>https://RuobingChen.github.io/post/life-gun-yong-yuan-de-wen-zhou-de-xi-yang/</id>
+        <link href="https://RuobingChen.github.io/post/life-gun-yong-yuan-de-wen-zhou-de-xi-yang/">
+        </link>
+        <updated>2017-10-10T12:04:40.000Z</updated>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reading丨我已与一万株白桦相逢]]></title>
         <id>https://RuobingChen.github.io/post/reading-gun-wo-yi-yu-yi-wan-zhu-bai-hua-xiang-feng/</id>
         <link href="https://RuobingChen.github.io/post/reading-gun-wo-yi-yu-yi-wan-zhu-bai-hua-xiang-feng/">
         </link>
         <updated>2015-12-26T16:47:17.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Life丨圣诞是金色的闪光]]></title>
+        <id>https://RuobingChen.github.io/post/life-gun-sheng-dan-shi-jin-se-de-shan-guang/</id>
+        <link href="https://RuobingChen.github.io/post/life-gun-sheng-dan-shi-jin-se-de-shan-guang/">
+        </link>
+        <updated>2015-12-20T15:52:46.000Z</updated>
     </entry>
 </feed>
